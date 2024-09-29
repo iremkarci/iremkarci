@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm İrem Karcı</h1>
 <h3 align="center">A passionate software developer from Turkiye</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** html , css
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
